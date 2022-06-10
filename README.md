@@ -2,6 +2,13 @@
 
 #### Atualmente sou estudante de Ciencia da Computação que busca trabalhar na área de segurança da informação, focado em testes de invasão.
 
+<div>
+<a href="https://github.com/ArthurLabaki">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLabaki&theme=midnight-purple&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLabaki&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLabaki&theme=midnight-purple&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurLabaki&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)
