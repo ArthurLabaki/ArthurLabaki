@@ -7,6 +7,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLabaki&theme=midnight-purple&layout=compact&langs_count=7"/>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLabaki&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
+
+<script src="https://tryhackme.com/badge/320342"></script>
 </div>
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurlabaki/)
