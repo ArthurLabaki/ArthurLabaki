@@ -1,10 +1,9 @@
 ### Olá! Sou o Arthur Labaki 👋
 
 #### Atualmente sou estudante de Ciencia da Computação que busca trabalhar na área de segurança da informação, focado em testes de invasão.
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Dededin.png" alt="TryHackMe">
 <div>
 <a href="https://github.com/ArthurLabaki">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Dededin.png" alt="TryHackMe">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLabaki&theme=midnight-purple&layout=compact&langs_count=7"/>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLabaki&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
